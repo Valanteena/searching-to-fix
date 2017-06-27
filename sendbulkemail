@@ -1,7 +1,0 @@
-Hi,
-I want to send bulk email thorugh SendGrid API.
-I created account with sendgrid then used GitHub Guides.
-As per that guid I just generated API key and applied in my code.
-then i created batch id using postman from chrome.then i applied that and run the code..
-i got content type error. i fixed that error also. now its not showed any error but mail not moved..
-I attached my code. please guide me. 
